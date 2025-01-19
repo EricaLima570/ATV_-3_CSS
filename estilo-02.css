@@ -1,0 +1,34 @@
+.container1 {
+    display: flex; 
+}
+.container2 {
+    display: flex;
+}
+
+.esqcima {
+    background-color: red; 
+    height: 150px; 
+    width: 150px; 
+}
+
+.dircima {
+    background-color: yellow; 
+    height: 150px;
+    width: 150px; 
+}
+
+.esqbaixo {
+    background-color: green; 
+    height: 150px; 
+    width: 150px; 
+}
+
+.dirbaixo {
+    background-color: blue; 
+    height: 150px;
+    width: 150px; 
+}
+
+body {
+    margin: 0; 
+}
